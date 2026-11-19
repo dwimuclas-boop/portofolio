@@ -1,0 +1,160 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohammad Dwi Muclas | Beranda</title>
+</head>
+<body>
+
+    <!-- Kepala Halaman & Navigasi -->
+    <header>
+        <h1>Mohammad Dwi Muclas</h1>
+        <p>Siswa kelas X SMK, calon Junior Web Developer di Kelas Industri UBIG.</p>
+
+        <nav>
+            <ul>
+                <li><a href="index.html">Beranda</a></li>
+                <li><a href="proyek.html">Proyek</a></li>
+                <li><a href="kontak.html">Kontak</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Isi Utama Halaman -->
+    <main>
+
+        <!-- Section: Tentang Saya -->
+        <section>
+            <h2>Tentang Saya</h2>
+
+            <figure>
+                <img src="img/Muclas.jpeg"
+                     alt="Foto profil Mohammad Dwi Muclas"
+                     width="180">
+                <figcaption>Mohammad Dwi Muclas, Kelas X RPL B</figcaption>
+            </figure>
+
+            <p>
+                Saya tinggal di Ponorogo, Pulung, Desa Munggung,
+                Dukuh Munggur. Saya senang mencoba hal baru di dunia
+                teknologi. Saya ingin bisa membuat website yang
+                bermanfaat untuk sekolah dan UMKM di sekitar sekolah.
+            </p>
+        </section>
+
+        <!-- Section: Hobi -->
+        <section>
+            <h2>Hobi</h2>
+            <ul>
+                <li>Bengkel</li>
+                <li>Boxing</li>
+                <li>Coding tipis-tipis</li>
+            </ul>
+        </section>
+
+        <!-- Section: Cita-cita -->
+        <section>
+            <h2>Cita-cita</h2>
+
+            <p>
+                Menjadi <strong>Full Stack Web Developer</strong>.
+                Langkah yang saya rencanakan:
+            </p>
+
+            <ol>
+                <li>Menuntaskan Kelas Industri UBIG sampai Semester 4</li>
+                <li>Magang di perusahaan teknologi</li>
+                <li>Bekerja sebagai Web Developer</li>
+            </ol>
+        </section>
+
+        <!-- Section: Keahlian -->
+        <section>
+            <h2>Keahlian</h2>
+            <ul>
+                <li>HTML dasar (sedang dipelajari)</li>
+                <li>Mengetik cepat</li>
+                <li>Desain poster dengan Canva</li>
+            </ul>
+        </section>
+
+        <!-- Section: Jadwal Belajar -->
+        <section>
+            <h2>Jadwal Belajar</h2>
+
+            <table>
+                <caption>Jadwal belajar mandiri setiap minggu</caption>
+
+                <thead>
+                    <tr>
+                        <th>Hari</th>
+                        <th>Waktu</th>
+                        <th>Kegiatan</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr>
+                        <td>Senin</td>
+                        <td>19.00 - 20.00</td>
+                        <td>Membaca ulang modul</td>
+                    </tr>
+
+                    <tr>
+                        <td>Rabu</td>
+                        <td>19.00 - 21.00</td>
+                        <td>Mengerjakan tugas praktik</td>
+                    </tr>
+
+                    <tr>
+                        <td>Jumat</td>
+                        <td>19.30 - 20.30</td>
+                        <td>Merekam video dan menulis laporan</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+    </main>
+
+    <!-- Kaki Halaman -->
+    <footer>
+        <p>Kontak:</p>
+
+        <ul>
+            <li>
+                Email:
+                <a href="mailto:mohammaddwimuclas@gmail.com">
+                    mohammaddwimuclas@gmail.com
+                </a>
+            </li>
+
+            <li>
+                <a href="https://github.com/dwimuclas-boop"
+                   target="_blank"
+                   rel="noopener noreferrer">GitHub</a>
+            </li>
+
+            <li>
+                <a href="https://www.youtube.com/@mdwimuclas"
+                   target="_blank"
+                   rel="noopener noreferrer">YouTube</a>
+            </li>
+
+            <li>
+                <a href="https://www.instagram.com/muclasmuc/"
+                   target="_blank"
+                   rel="noopener noreferrer">Instagram</a>
+            </li>
+        </ul>
+
+        <p>
+            &copy; 2026 Mohammad Dwi Muclas.
+            Dibuat di Kelas Industri UBIG.
+        </p>
+    </footer>
+
+</body>
+</html>

@@ -1,0 +1,76 @@
+/* Pengaturan dasar font dan halaman */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+
+/* Styling Tabel */
+table {
+    border-collapse: collapse;
+    width: 80%;
+    max-width: 800px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+/* Header Tabel */
+th {
+    background-color: #2980b9;
+    color: #ffffff;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+}
+
+th, td {
+    padding: 12px 15px;
+    text-align: left;
+}
+
+/* Baris Tabel */
+tbody tr {
+    border-bottom: 1px solid #dddddd;
+    transition: background-color 0.2s ease;
+}
+
+/* Efek highlight saat mouse diarahkan ke baris tabel */
+tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Warna selang-seling untuk baris genap */
+tbody tr:nth-of-type(even) {
+    background-color: #f9f9f9;
+}
+
+/* Styling Badge Status */
+.status {
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.status.selesai {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.status.berjalan {
+    background-color: #fff3cd;
+    color: #856404;
+}

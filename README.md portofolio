@@ -1,0 +1,27 @@
+# portofolio mohammad dwi muclas
+
+Website portofolio pribadi yang saya buat di Kelas Industri UBIG
+(Paket 1, Minggu 01 sampai 05).
+ Websiteini tampil rapi di ponsel, tablet, dan laptop.
+
+## Tampilan
+
+![Tampilan beranda portofolio](/)
+
+## Fitur
+
+-halaman Beranda berisi profil, hobi, cita-cita, keahlian, dan jadwal belajar
+-Halaman **Proyek** berisi daftar proyek dalam bentuk kartu
+-Halaman **Kontak** berisi form untuk menghubungi saya
+_Tampilan responsi: dengan Flexbox dan *media query*
+
+#Teknologi
+
+-HTML5
+-CSS3 (Flexbox dan media query)
+-Git dan SitRub
+
+## Tautan
+
+-Website: menyusul setelah *deplop* ke vercel
+-Dibuat oleh: mohammad dwi mmuclas, SMK 1 jenangan

@@ -20,6 +20,7 @@ _Tampilan responsi: dengan Flexbox dan *media query*
 -HTML5
 -CSS3 (Flexbox dan media query)
 -Git dan SitRub
+-VS code dan live server
 
 ## Tautan
 
